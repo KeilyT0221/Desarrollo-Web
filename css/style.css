@@ -1,0 +1,31 @@
+p {
+    color: aqua;
+}
+
+#importante {
+    color: red;
+}
+
+.no-importante {
+    color: blue;
+}
+
+div p {
+    color: green;
+}
+
+div h4, div h5, div h6 {
+    color: rgb(207, 44, 44);
+    font-size: 5mm;
+}
+
+div {
+    background-color: green;
+    font-size: 2em;
+    height: 50vw;
+    width: 50vh;
+}
+
+h4 {
+    font-size: 2em;
+}
