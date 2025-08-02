@@ -29,3 +29,14 @@ div {
 h4 {
     font-size: 2em;
 }
+
+@media(min-width:200px){
+    body[
+        background-color: bisque; 
+    ]
+}
+@media(min-width:300px){
+    body[
+        background-color: yellow; 
+    ]
+}
