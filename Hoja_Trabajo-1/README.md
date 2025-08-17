@@ -1,8 +1,8 @@
 # PAGINA WEB EXCURSION
-    Se creo una página web con el objetivo de promocionar una excursión para tener una experiencia nueva y ahora se actualiza para dar estilo a la página web con CSS.
+    Este proyecto corresponde a la Hoja de Trabajo 2 - Bootstrap, cuyo objetivo fue mejorar un sitio web inicial en HTML y CSS aplicando componentes de Bootstrap para obtener un diseño más atractivo, interactivo y responsivo.
 
 ## lINK PÁGINA WEB
-    https://heroic-dodol-17a5dd.netlify.app/
+    https://sparkling-biscochitos-cd1514.netlify.app/
 
 ## NOMBRE
     Keily Andrea Tobar Morales
